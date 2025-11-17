@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tailwind Layers */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------
+   Global CSS Variables (Design System)
+--------------------------------- */
+:root {
+  --color-primary: #2563eb; /* blue-600 */
+  --color-bg: #f8fafc; /* slate-50 */
+  --color-card-bg: #ffffff;
+  --color-border: #e2e8f0; /* slate-200 */
+  --color-text: #334155; /* slate-700 */
+  --radius-card: 12px;
+}
+
+/* ------------------------------
+   Reset / Basic Layout
+--------------------------------- */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--color-bg);
+  font-family: "Inter", sans-serif;
+  color: var(--color-text);
+}
+
+/* 스크롤바 스타일 */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1; /* slate-300 */
+  border-radius: 10px;
+}
+
+/* ------------------------------
+   App Global Layout 헬퍼
+--------------------------------- */
+.app-container {
+  @apply min-h-screen w-full flex bg-slate-50;
+}
+
+.app-content {
+  @apply flex-1 flex flex-col;
+}
+
+.page-wrapper {
+  @apply p-6 lg:p-8 w-full mx-auto;
+}
