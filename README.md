@@ -1,6 +1,6 @@
 # AI 기반 방문자 분석 대시보드 | Vue 3 + Chart.js | 새론솔루션 기술스택에 맞춘 프론트엔드 미니 프로젝트
 
-[버셀주소](ai-dashboard-plum.vercel.app)
+[버셀주소](ai-dashboard-git-main-devyubis-projects.vercel.app)
 
 
 이번 프로젝트는 **방문자 데이터**를 기반으로 한 `Analytics Dashboard` 형태입니다.
